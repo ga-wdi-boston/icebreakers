@@ -9,6 +9,6 @@ Instructions: Tell the group that each person will introduce him- or herself by 
 
 Icebreaker #2
 
-Draw a line mark out a line down the centre of your space. All the developers start by standing on the line.
+Instructions: Draw a line mark out a line down the centre of your space. All the developers start by standing on the line.
 
 Now call out opposites and point in one direction for each. Developers make their choice and run to the correct side of the line.
